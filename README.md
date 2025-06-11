@@ -69,7 +69,7 @@ Thông qua ánh sáng, không gian, và AI, dự án giúp con người **đối
 
 ---
 
-## 🎨 Thiết kế & Ý tưởng: Kim Thương Nakamura
+## 🎨 Thiết kế & Ý tưởng: TRƯƠNG THỊ KIM THƯƠNG
 
 - 🎨 Figma: [Giao diện trải nghiệm](https://www.figma.com/design/CSNdC1h6ytaCn9NGlOWTMl)
 - 🗓️ Ngày phát triển: Tháng 5, 2025
@@ -148,7 +148,7 @@ Thông qua ánh sáng, không gian, và AI, dự án giúp con người **đối
 
 ---
 
-## 🎨 制作・構想：Kim Thương Nakamura
+## 🎨 制作・構想：TRUONG THI KIM THUONG
 
 - 🎨 Figma： [体験デザイン](https://www.figma.com/design/CSNdC1h6ytaCn9NGlOWTMl)
 - 🗓️ 制作時期：2025年5月
@@ -230,7 +230,7 @@ This is a small gift for those who haven’t yet forgiven themselves.
 
 ---
 
-## 🎨 Designed by: Kim Thương Nakamura
+## 🎨 Designed by: TRUONG THI KIM THUONG
 
 - 🎨 Figma: [Experience Design (JP)](https://www.figma.com/design/CSNdC1h6ytaCn9NGlOWTMl)
 - 📅 Developed: May 2025
